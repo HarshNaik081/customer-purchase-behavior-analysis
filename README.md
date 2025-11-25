@@ -41,20 +41,6 @@ Analyzed 541,909 e-commerce transactions to identify **customer retention driver
   - Removed duplicates & invalid prices
   - Cleaned to 4,290 unique customers
 
-## 📂 Project Structure
-
-├── data/
-│ └── OnlineRetail_Clean.csv # Cleaned dataset (385K rows)
-├── scripts/
-│ ├── data_cleaning.py # Data quality & preparation
-│ ├── rfm_analysis.py # RFM segmentation
-│ └── cohort_analysis.py # Retention tracking
-├── outputs/
-│ ├── rfm_segments.csv # Customer segments
-│ ├── cohort_counts.csv # Cohort sizes
-│ └── cohort_retention.csv # Retention rates
-└── README.md
-
 
 ## 🚀 How to Run
 
@@ -154,13 +140,9 @@ python scripts/cohort_analysis.py
 
 ## 👤 Author
 **Harsh Naik** | IIT Dhanbad
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
-- Email: [Your Email]
+- LinkedIn: [https://www.linkedin.com/in/harsh-naik-423211287/]
+- GitHub: [https://github.com/HarshNaik081/]
+- Email: [harshnaik081@gmail.com]
 
-## 📄 License
-This project is licensed under MIT License.
-
----
 
 ⭐ **If you found this helpful, please star the repository!**
